@@ -69,7 +69,8 @@ This design includes input/output filtering, a Schottky diode for fast switching
 
 ##  Working
 
-[imgonline-com-ua-twotoone-R6YRTuwlLy](https://github.com/user-attachments/assets/38ffd4b8-3b81-48aa-ae07-edaade04deba)
+![imgonline-com-ua-twotoone-R6YRTuwlLy](https://github.com/user-attachments/assets/a152cf93-3499-4523-823f-1e20d6dac96d)
+
 
 
 ---
